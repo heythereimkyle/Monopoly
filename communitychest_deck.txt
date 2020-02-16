@@ -1,0 +1,18 @@
+COMMUNITY CHEST TEMPLATE: DESCRIPTION//PRICE//SPECIAL_EVENT//TILE TO MOVE TO
+Advance to "Go". (Collect $200)//0//1//0
+Bank error in your favor. Collect $200.//0//-200//-1
+Doctor's fee. Pay $50.//0//50//-1
+From sale of stock you get $50.//0//-50//-1
+Get Out of Jail Free. This card may be kept until needed or sold/traded.//0//4//-1
+Go to Jail. Go directly to jail. Do not pass Go, Do not collect $200.//0//6//-1
+Grand Opera Night. Collect $50 from every player for opening night seats.//-50//9//-1
+Xmas Fund matures. Collect $100.//0//-100//-1
+Income tax refund. Collect $20.//0//-20//-1
+It's your birthday. Collect $10 from every player.//-10//9//-1
+Life insurance matures – Collect $100.//0//-100//-1
+Hospital Fees. Pay $50.//0//50//-1
+School fees. Pay $50.//0//50//-1
+Receive $25 consultancy fee. //0//-25//-1
+You are assessed for street repairs: Pay $40 per house and $115 per hotel you own.//0//7//-1
+You have won second prize in a beauty contest. Collect $10.//0//-10//-1
+You inherit $100.//0//-100//-1
